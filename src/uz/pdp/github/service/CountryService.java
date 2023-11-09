@@ -6,4 +6,8 @@ public class CountryService {
         System.out.println("Men country service da ishlayapman");
     }
 
+    public static void test(){
+        System.out.println("Test");
+    }
+
 }
